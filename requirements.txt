@@ -39,3 +39,4 @@ thinc==7.3.1
 tqdm==4.46.1
 urllib3==1.25.9
 wasabi==0.6.0
+whitenoise==5.1.0
